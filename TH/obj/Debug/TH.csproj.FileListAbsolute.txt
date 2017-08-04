@@ -1,0 +1,2 @@
+c:\users\thiago.lima\documents\visual studio 2015\Projects\TH\TH\bin\Debug\TH.exe.config
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\bin\Debug\TH.exe.config
