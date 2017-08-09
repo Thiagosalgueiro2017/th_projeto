@@ -1,2 +1,10 @@
 c:\users\thiago.lima\documents\visual studio 2015\Projects\TH\TH\bin\Debug\TH.exe.config
 C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\bin\Debug\TH.exe.config
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\bin\Debug\TH.exe
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\bin\Debug\TH.pdb
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\obj\Debug\TH.csprojResolveAssemblyReference.cache
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\obj\Debug\TH.Form1.resources
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\obj\Debug\TH.Properties.Resources.resources
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\obj\Debug\TH.csproj.GenerateResource.Cache
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\obj\Debug\TH.exe
+C:\Users\thiago.lima\Desktop\GitHub\th_projeto\TH\obj\Debug\TH.pdb
