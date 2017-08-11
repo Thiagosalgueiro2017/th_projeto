@@ -12,6 +12,7 @@ namespace TH
 {
     public partial class Form1 : Form
     {
+        
         public Form1()
         {
             InitializeComponent();
@@ -39,9 +40,10 @@ namespace TH
 
         private void button1_Click(object sender, EventArgs e)
         {
-            //textBox1.Text = "CHININHA E PRINCIPE";
-            textBox1.AppendText("NAVE\n");
-            textBox1.AppendText("NAVE" + trackBar1.Value);
+            Random rand = new Random();
+            int Numero = rand.Next(0, trackBar1.Value);
+
+            label1.Text = Numero.ToString();
 
            
             
@@ -52,8 +54,7 @@ namespace TH
 
         private void trackBar1_Scroll(object sender, EventArgs e)
         {
-            label1.Text = trackBar1.Value.ToString();
-
+         
         }
     }
 }
